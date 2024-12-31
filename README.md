@@ -27,8 +27,6 @@ This project simulates a RedBox rental machine that offers video games and movie
    - Additional Attribute: `Format` (BluRay or Standard DVD).
    - Rental Rate: $2.00 per day for BluRay, $1.75 per day for Standard DVD.
 
----
-
 ### User Interaction:
 - **Renting Items**: Users input the slot number to rent an item. If the item is available, the rental fee is displayed and the quantity is updated.
 - **Returning Items**: Users input the slot number and rental duration. The system calculates and displays the rental fee based on the number of days the item was rented.
