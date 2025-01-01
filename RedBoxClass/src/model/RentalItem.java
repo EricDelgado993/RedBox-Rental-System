@@ -3,19 +3,6 @@ package model;
 
 public abstract class RentalItem {
     
-//    private final String title;
-//    private int year;
-//    private int slotNo;
-//    private int QTY;
-//    
-//    public RentalItem() {
-//        
-//        title = "NULL";
-//        year = 0;
-//        slotNo = 0;
-//        QTY = 0;
-//    }
-    
     public abstract String GetTitle();
     public abstract int GetYear();
     public abstract int GetSlotNo();
