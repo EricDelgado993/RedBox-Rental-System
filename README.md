@@ -9,7 +9,7 @@ This project simulates a RedBox rental machine that offers video games and movie
 - [RentalItem.java](https://github.com/EricDelgado993/RedBox-Rental-System/blob/main/RedBoxClass/src/model/RentalItem.java)
 - [Movie.java](https://github.com/EricDelgado993/RedBox-Rental-System/blob/main/RedBoxClass/src/model/Movie.java)
 - [VideoGame.java](https://github.com/EricDelgado993/RedBox-Rental-System/blob/main/RedBoxClass/src/model/VideoGame.java)
-- [TestDriver.java](https://github.com/EricDelgado993/RedBox-Rental-System/blob/main/RedBoxClass/src/RedBox/RedBox.java)
+- [RedBox.java](https://github.com/EricDelgado993/RedBox-Rental-System/blob/main/RedBoxClass/src/RedBox/RedBox.java)
 
 ---
 
